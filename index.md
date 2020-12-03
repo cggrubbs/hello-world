@@ -1,3 +1,5 @@
 #Hello World!
 
-* this is bolded *
+**This is bolded or italicized.**
+
+This is a new line.
